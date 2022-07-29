@@ -1,0 +1,1 @@
+in order to run the code and see the results, please open index.html, next if you want see the code please review the test2.js
